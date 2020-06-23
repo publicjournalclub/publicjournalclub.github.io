@@ -96,7 +96,7 @@ author:
   name             : "Public Journal Club"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "An **open** forum for scientific discussion."
-  location         : "everywhere"
+  location         : "Everywhere"
   email            :
   links:
     - label: "Email"
