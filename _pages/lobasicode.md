@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /lo-basico-de/
-title: "Lo Básico de"
+title: "Lo Basico de"
 author_profile: true
 header:
   image: "/images/lbd.png"
