@@ -95,8 +95,8 @@ analytics:
 author:
   name             : "Public Journal Club"
   avatar           : "/images/logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "An open forum for scientific discussion."
-  location         : "Earth"
+  bio              : "An **open** forum for scientific discussion."
+  location         : "Everywhere"
   email            :
   links:
     - label: "Email"
@@ -107,26 +107,26 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/publicjournalc"
+      # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/publicjournalclub"
+      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/publicjournalclub"
+      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/publicjournalc"
+      # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/publicjournalclub"
+      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
@@ -138,7 +138,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/publicjournalclub"
+      # url:
 
 
 # Reading Files
@@ -267,7 +267,7 @@ compress_html:
 
 
 # Defaults
-default:
+defaults:
   # _posts
   - scope:
       path: ""
@@ -279,11 +279,3 @@ default:
       comments: # true
       share: true
       related: true
-
-  #_pages
-- scope:
-    path: ""
-    type: pages
-  values:
-      layout: single
-      author_profile: true
