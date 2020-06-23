@@ -3,8 +3,6 @@ layout: archive
 permalink: /lo-basico-de/
 title: "Lo Basico de"
 author_profile: true
-header:
-  image: "/images/lbd.png"
 ---
 {% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}
