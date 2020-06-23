@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /lo-basico-de/
+permalink: /lobasicode/
 title: "Lo Basico de"
 author_profile: true
 ---
