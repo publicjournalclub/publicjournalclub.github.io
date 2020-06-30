@@ -1,6 +1,6 @@
 ---
 layout: archive
 permalink: /lobasicode/
-title: "Lo Basico de"
+title: "Lo Básico de"
 author_profile: true
 ---
