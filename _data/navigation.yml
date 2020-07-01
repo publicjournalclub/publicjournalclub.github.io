@@ -2,7 +2,7 @@
 main:
   - title: "About PJC"
     url: /about/
-  - title: "Lo Basico de"
+  - title: "Lo Básico de"
     url: /lobasicode/
   # - title: "Sample Collections"
   #   url: /collection-archive/
