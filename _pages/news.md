@@ -2,6 +2,6 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/BannerPJC.jpg"
+  image: "/images/map.png"
 ---
 Bla bla bla
