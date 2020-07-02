@@ -1,6 +1,6 @@
 ---
 title: "About us"
-permalink: /about/
+permalink: /aboutus/
 header:
   image: "/images/BannerPJC.jpg"
 ---
