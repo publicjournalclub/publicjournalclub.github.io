@@ -12,6 +12,6 @@ Explorando los rincones más oscuros del RNA-world
 ## Diego Pérez Vázquez
 Chilango perdido en Nueva York
 ## Emmanuel Flores Espinoza
-Futuro Rector de la UNAM y Secretario de Salud
+Siempre biomédico, nunca in-biomédico
 ## Eugenio Contreras Castillo
 Doctor profesor para ustedes
