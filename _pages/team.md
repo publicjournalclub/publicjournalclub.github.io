@@ -6,12 +6,13 @@ header:
 ---
 Public Journal Club would not be possible without the constant effort of this group of talented scientists:
 ## Aranzazú Arias Rojas
-Amante de la evolución y la imunología comparada.
+![image-left]({{ site.url }}{{ site.baseurl }}/images/aranzazu_web.jpg){: .align-left} Amante de la evolución y la imunología comparada.
 ## Carlos Alfonso González
 Explorando los rincones más oscuros del RNA-world
 ## Diego Pérez Vázquez
 Chilango perdido en Nueva York
 ## Emmanuel Flores Espinoza
-Siempre biomédico, nunca in-biomédico. 
+![image-left]({{ site.url }}{{ site.baseurl }}/images/emmanuel_web.jpg){: .align-left}
+Siempre biomédico, nunca in-biomédico.
 ## Eugenio Contreras Castillo
 Doctor profesor para ustedes

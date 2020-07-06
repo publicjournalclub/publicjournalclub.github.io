@@ -4,6 +4,8 @@ main:
     url: /aboutus/
   - title: "Lo Básico de"
     url: /lobasicode/
+  - title: "Next Session"
+    url: /nextsession/
   - title: "Calendar"
     url: /calendar/
   - title: "PJC Team"
