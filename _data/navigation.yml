@@ -2,10 +2,10 @@
 main:
   - title: "About PJC"
     url: /aboutus/
-  - title: "Lo Básico de"
-    url: /lobasicode/
   - title: "Next Session"
     url: /nextsession/
+  - title: "Lo Básico de"
+    url: /lobasicode/
   - title: "Calendar"
     url: /calendar/
   - title: "PJC Team"
