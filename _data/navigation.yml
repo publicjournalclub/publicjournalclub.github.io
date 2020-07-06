@@ -6,10 +6,10 @@ main:
     url: /lobasicode/
   - title: "Calendar"
     url: /calendar/
-  - title: "Contact us"
-    url: /contact/
   - title: "PJC Team"
     url: /team/
+  - title: "Contact us"
+    url: /contact/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
