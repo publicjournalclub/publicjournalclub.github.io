@@ -6,7 +6,7 @@ header:
 ---
 Public Journal Club would not be possible without the constant effort of this group of talented scientists:
 ## Aranzazú Arias Rojas
-![image-left]({{ site.url }}{{ site.baseurl }}/images/aranzazu_web.jpg){: .align-left} Amante de la evolución y la imunología comparada.
+![image-left]({{ site.url }}{{ site.baseurl }}/images/aranzazu_web.png){: .align-left} Amante de la evolución y la imunología comparada.
 ## Carlos Alfonso González
 Explorando los rincones más oscuros del RNA-world
 ## Diego Pérez Vázquez
