@@ -15,4 +15,4 @@ Se espera que los participantes cuenten con un nivel Básico-Intermedio en Inmun
 # Idioma
 Las sesiones de LBD son impartidas en español para fomentar la discusión y cualquier tipo de preguntas al ponente. Esperamos con ello eliminar cualquier barrera que pueda existir para comprender ampliamente el tema.
 
-[Regístrate a la Próxima Sesión](https://publicjournalclub.github.io/docs/100720_BurberryA.pdf){: .btn .btn--warning}
+[Regístrate a la Próxima Sesión](https://forms.gle/jENvQpd22GhWzeNF7){: .btn .btn--warning}
